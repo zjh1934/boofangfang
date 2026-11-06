@@ -1,0 +1,6 @@
+{
+  "format": "qwen3-tts.cpp/ggml multi-file ( Serveurperso/Qwen3-TTS-GGUF 命名 )",
+  "talker": "qwen-talker-1.7b-base-Q8_0.gguf",
+  "tokenizer": "qwen-tokenizer-12hz-Q8_0.gguf",
+  "note": "三个模式共用同一个 tokenizer；切换模式即切换 talker 文件名（base / customvoice / voicedesign）"
+}
