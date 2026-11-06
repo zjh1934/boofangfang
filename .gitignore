@@ -1,0 +1,15 @@
+*.gguf
+build/
+build-engine/
+app/src/main/jniLibs/
+engine/src/main/cpp/ggml/*
+!engine/src/main/cpp/ggml/README.md
+*
+!engine/src/main/cpp/ggml/*
+!engine/src/main/cpp/ggml/README.md
+README.md
+
+engine/src/main/cpp/*.cpp
+!engine/src/main/cpp/jni_bridge.cpp
+.gradle/
+local.properties
