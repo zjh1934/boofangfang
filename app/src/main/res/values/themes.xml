@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Boofangfang" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#2F6BFF</item>
+        <item name="android:statusBarColor">#0E1116</item>
+    </style>
+</resources>
